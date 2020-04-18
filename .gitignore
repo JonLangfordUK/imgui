@@ -1,3 +1,9 @@
+# Directories
+Build/
+BUILD/
+bUILD/
+build/
+
 ## OSX artifacts
 .DS_Store
 
