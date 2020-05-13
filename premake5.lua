@@ -1,3 +1,4 @@
+group "Vendor"
 project "ImGui"
 	kind "StaticLib"
 	language "C++"
